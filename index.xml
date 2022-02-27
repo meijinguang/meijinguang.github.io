@@ -8,27 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Feb 2022 16:05:00 +0800</lastBuildDate><atom:link href="http://www.mdrink.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>再次更新文章</title>
-      <link>http://www.mdrink.cn/post/%E5%86%8D%E6%AC%A1%E6%9B%B4%E6%96%B0%E6%96%87%E7%AB%A0/</link>
+      <title>日常更新文章</title>
+      <link>http://www.mdrink.cn/post/richangx/</link>
       <pubDate>Sun, 27 Feb 2022 16:05:00 +0800</pubDate>
       
-      <guid>http://www.mdrink.cn/post/%E5%86%8D%E6%AC%A1%E6%9B%B4%E6%96%B0%E6%96%87%E7%AB%A0/</guid>
-      <description>再次更新文章
-1.新建一篇文章，在网站根目录：D:\Hugo\Sites\www.mdrink.cn hugo new post/第二篇测试博客.md
-2.在目录 D:\Hugo\Sites\www.mdrink.cn\content\post 下找到对应文件进行修改 3.本地预览, http://localhost:1313/ hugo server &amp;ndash;theme=maupassant &amp;ndash;buildDrafts
-4.构建 Hugo 网站 hugo &amp;ndash;theme=maupassant &amp;ndash;baseUrl=&amp;ldquo;http://www.mdrink.cn/&amp;quot;
-5.切换到目录 D:\Hugo\Sites\www.mdrink.cn\public ，提交修改至本地库 更新推送 可能会失败，先比较这两个 git pull origin master git config &amp;ndash;global http.sslverify &amp;ldquo;false&amp;rdquo;
-git add -A git commit -m &amp;lsquo;commit info&amp;rsquo;
-6.将修改推至远程库 git push -u origin master
-第一次新建是以下 cd public git init git remote add origin https://github.com/meijinguang/meijinguang.github.io.git git add -A git commit -m &amp;ldquo;first commit&amp;rdquo; git push -u origin master</description>
+      <guid>http://www.mdrink.cn/post/richangx/</guid>
+      <description>日常更新文章 1.新建一篇文章 在网站根目录：D:\Hugo\Sites\www.mdrink.cn 运行代码：hugo new post/**.md 2.在目录 D:\Hugo\Sites\www.mdrink.cn\content\post 下找到对应文件进行修改 3.本地预览, http://localhost:1313/ 运行代码：hugo server -D 4.构建 Hugo 网站 运行代码：hugo 5.切换到目录 D:\Hugo\Sites\www.mdrink.cn\public ，提交修改至本地库 更新推送 推送准备，先运行</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>关于我</title>
       <link>http://www.mdrink.cn/about/</link>
-      <pubDate>Sun, 27 Feb 2022 11:16:08 +0800</pubDate>
+      <pubDate>Tue, 10 Mar 2015 00:13:27 +0000</pubDate>
       
       <guid>http://www.mdrink.cn/about/</guid>
+      <description>坚持实践</description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>http://www.mdrink.cn/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mdrink.cn/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>http://www.mdrink.cn/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.mdrink.cn/search/</guid>
       <description></description>
     </item>
     

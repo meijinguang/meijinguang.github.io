@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.mdrink.cn/categories/</loc>
+    <lastmod>2022-02-27T16:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mdrink.cn/tags/hugo/</loc>
+    <lastmod>2022-02-27T16:05:00+08:00</lastmod>
+  </url><url>
     <loc>http://www.mdrink.cn/post/</loc>
     <lastmod>2022-02-27T16:05:00+08:00</lastmod>
   </url><url>
-    <loc>http://www.mdrink.cn/post/%E5%86%8D%E6%AC%A1%E6%9B%B4%E6%96%B0%E6%96%87%E7%AB%A0/</loc>
+    <loc>http://www.mdrink.cn/tags/</loc>
     <lastmod>2022-02-27T16:05:00+08:00</lastmod>
   </url><url>
     <loc>http://www.mdrink.cn/</loc>
     <lastmod>2022-02-27T16:05:00+08:00</lastmod>
   </url><url>
+    <loc>http://www.mdrink.cn/post/richangx/</loc>
+    <lastmod>2022-02-27T16:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mdrink.cn/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2022-02-27T16:05:00+08:00</lastmod>
+  </url><url>
     <loc>http://www.mdrink.cn/about/</loc>
-    <lastmod>2022-02-27T11:16:08+08:00</lastmod>
+    <lastmod>2015-03-10T00:13:27+00:00</lastmod>
   </url><url>
-    <loc>http://www.mdrink.cn/categories/</loc>
+    <loc>http://www.mdrink.cn/archives/</loc>
   </url><url>
-    <loc>http://www.mdrink.cn/tags/</loc>
+    <loc>http://www.mdrink.cn/search/</loc>
   </url>
 </urlset>
