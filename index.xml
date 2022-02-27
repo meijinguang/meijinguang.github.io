@@ -5,6 +5,25 @@
     <link>http://www.mdrink.cn/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://www.mdrink.cn/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Feb 2022 11:17:59 +0800</lastBuildDate><atom:link href="http://www.mdrink.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://www.mdrink.cn/post/first/</link>
+      <pubDate>Sun, 27 Feb 2022 11:17:59 +0800</pubDate>
+      
+      <guid>http://www.mdrink.cn/post/first/</guid>
+      <description> aaa bbb ccc好好的  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.mdrink.cn/about/</link>
+      <pubDate>Sun, 27 Feb 2022 11:16:08 +0800</pubDate>
+      
+      <guid>http://www.mdrink.cn/about/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
