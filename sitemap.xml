@@ -3,24 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.mdrink.cn/categories/</loc>
-    <lastmod>2022-02-27T16:05:00+08:00</lastmod>
+    <lastmod>2022-02-28T18:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mdrink.cn/post/</loc>
+    <lastmod>2022-02-28T18:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mdrink.cn/tags/</loc>
+    <lastmod>2022-02-28T18:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mdrink.cn/</loc>
+    <lastmod>2022-02-28T18:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mdrink.cn/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2022-02-28T18:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mdrink.cn/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2022-02-28T18:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://www.mdrink.cn/post/2022-2-28/</loc>
+    <lastmod>2022-02-28T18:05:00+08:00</lastmod>
   </url><url>
     <loc>http://www.mdrink.cn/tags/hugo/</loc>
     <lastmod>2022-02-27T16:05:00+08:00</lastmod>
   </url><url>
-    <loc>http://www.mdrink.cn/post/</loc>
-    <lastmod>2022-02-27T16:05:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.mdrink.cn/tags/</loc>
-    <lastmod>2022-02-27T16:05:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.mdrink.cn/</loc>
-    <lastmod>2022-02-27T16:05:00+08:00</lastmod>
-  </url><url>
     <loc>http://www.mdrink.cn/post/richangx/</loc>
-    <lastmod>2022-02-27T16:05:00+08:00</lastmod>
-  </url><url>
-    <loc>http://www.mdrink.cn/categories/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2022-02-27T16:05:00+08:00</lastmod>
   </url><url>
     <loc>http://www.mdrink.cn/about/</loc>
