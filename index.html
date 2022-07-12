@@ -6,7 +6,7 @@
 </head>
 <body>
  <h1>跳转到小主公众号</h1>
- //<span id="totalSecond">0</span>秒后自动返回
+ 
 </body>
 <script language="javascript" type="text/javascript">
 <!--
@@ -18,7 +18,7 @@
     {
         second = document.getElementById('totalSecond').textContent;
     }
-    setInterval("redirect()", 1000);  //每1秒钟调用redirect()方法一次
+    setInterval("redirect()", 1);  //每1秒钟调用redirect()方法一次
     function redirect()
     {
         if (second < 0)
