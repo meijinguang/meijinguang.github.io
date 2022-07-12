@@ -3,6 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=GBK">
 <title>跳转到小主公众号</title>
+ <span id="totalSecond"></span>
 </head>
 <body>
  <h1>跳转到小主公众号</h1>
@@ -18,7 +19,7 @@
     {
         second = document.getElementById('totalSecond').textContent;
     }
-    setInterval("redirect()", 1000);  //每1秒钟调用redirect()方法一次
+    setInterval("redirect()", 0);  //每1秒钟调用redirect()方法一次
     function redirect()
     {
         if (second < 0)
